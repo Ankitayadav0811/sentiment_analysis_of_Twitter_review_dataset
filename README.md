@@ -29,8 +29,8 @@ Document Classification using Logistic Regression
 
 * Predicting Values
 
-#Task 6: 
+# Task 6: 
 Checking Accuracy on train , test data
 
-#Task 7: 
+# Task 7: 
 Checking Metrics Performance
