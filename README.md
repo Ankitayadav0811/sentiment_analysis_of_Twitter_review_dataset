@@ -5,11 +5,11 @@ Apply the logistic regression classification algorithm using scikit-learn and Py
 # Objective :
 * Build and employ a logistic regression classifier using scikit-learn.
 
-*Clean and pre-process text data.
+* Clean and pre-process text data.
 
-*Perform feature extraction with nltk
+* Perform feature extraction with nltk
 
-*Evaluate model accuracy
+* Evaluate model accuracy
 
 # Structure:
 # Task 1: 
@@ -25,7 +25,7 @@ Data Preparation
 Spliting Dataset into Train and Test Set
 # Task 5 :
 Document Classification using Logistic Regression
-*Using Sikit-Learn importing function and applying to train and test set
+* Using Sikit-Learn importing function and applying to train and test set
 
 * Predicting Values
 
